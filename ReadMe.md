@@ -1,4 +1,4 @@
-# 💫 About Me:
+## About Me 👉
 💻 Student Programming<br><br>• Java ☕<br>• Python 🐍
 
 
