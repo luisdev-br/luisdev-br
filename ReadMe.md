@@ -1,5 +1,13 @@
 ## About Me 👉
-💻 Student Programming<br><br>• Java ☕<br>• Python 🐍
+
+💻 Student Programming<br><br>
+🔫 Valorant Player - Rank (Imortal II)
+
+
+![omen-valorant](https://github.com/luisdev-br/luisdev-br/assets/132106812/bad5bdb6-8a6a-4be9-a0a1-02c096cf9d08)
+
+
+                                                           Omen - The G O A T 😎
 
 
 # 💻 Tech Stack:
