@@ -1,27 +1,35 @@
-## About Me 👉
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/125845662/234750193-44acbb65-2ced-485f-8caf-db1b2c1b33c0.gif" width="300"></td>
+    <td>
+        <ul>
+          <li><strong>Nome:</strong> <a href="https://www.instagram.com/lucashanm/">Lucas Emanuel</a></li>
+          <li><strong>Formação:</strong> <em>Sistemas de informação - </em> <a href="https://ufpi.br/">UFPI </a> e <em> Técnico em redes de computadores</em> </a></li>
+          <li><strong>Interesses:</strong> <em>Cibersegurança e suas variantes, programação competitiva. De maneira geral tenho grande interesse na temática tecnologia, gosto de acompanhar e aprender sobre diferentes áreas de conhecimento relacionadas a esse tema.</em></li>
+        </ul>
+        <h4><ins>Minhas ferramentas:</ins></h4>
+        <ul>
+          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+          <img align="center" alt="Lucaspm5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+        </ul>
+        <h4><ins>Conecte-se comigo:</ins></h4>
+          <a href="https://www.hackerrank.com/lucasemanuelpm5?hr_r=1" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge_&logo=hackerrank&logoColor=white" alt="HackerRank Badge">
+  </a>
 
-💻 Student Programming<br><br>
-🔫 Valorant Player - Rank (Imortal II)
+  <a href="https://leetcode.com/Lucaspm5/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-%23F89F1B?style=for-the-badge_&logo=leetcode&logoColor=white" alt="LeetCode Badge">
+  </a>
+          
+<a href="https://www.beecrowd.com.br/judge/pt/users/friends/717707" target="_blank">
+    <img src="https://img.shields.io/badge/BeeCrowd-1B1E34?style=for-the-badge_&logo=BeeCrowd&logoColor=white" alt="BeeCrowd Badge">
+  </a>
 
+     
+</a>
+    </td>
+  </tr>
+</table>
 
-![omen-valorant](https://github.com/luisdev-br/luisdev-br/assets/132106812/bad5bdb6-8a6a-4be9-a0a1-02c096cf9d08)
-
-
-                                                           Omen - The G O A T 😎
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=luisdev-br&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=luisdev-br&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdev-br&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=luisdev-br&icon=1&color=12)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/lampoiv@hotmail.com) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![wakatime](https://wakatime.com/badge/user/c360f03e-bb60-4b6d-9bec-5635ad3dd73d.svg)](https://wakatime.com/@c360f03e-bb60-4b6d-9bec-5635ad3dd73d)
