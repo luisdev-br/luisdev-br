@@ -9,6 +9,8 @@
         </ul>
         <h4><ins>Minhas ferramentas:</ins></h4>
         <ul>
+ • Java ☕
+  • Python 🐍
           
 
      
