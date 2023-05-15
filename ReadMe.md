@@ -4,7 +4,7 @@
     <td>
         <ul>
           <li><strong>Nome:</strong> <a href="https://www.instagram.com/luisinyoufront_/">Luis Eduardo</a></li>
-          <li><strong>Formação:</strong> <em>Sistemas de informação - </em> <a href="https://ufpi.br/">UNIFACISA </a></a></li>
+          <li><strong>Formação:</strong> <em>Sistemas de informação - </em> <a href="https://www.unifacisa.edu.br/home">UNIFACISA </a></a></li>
           <li><strong>Interesses:</strong> <em>Programacao em Java Full Stack</em></li>
         </ul>
         <h4><ins>Minhas ferramentas:</ins></h4>
